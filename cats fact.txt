@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CAT FACTS!</title>
+	<link rel= "stylesheet" href=style.css">
+</head>
+
+<body>
+<center><h1>CAT FACTS!</center></h1>
+
+<center><img src="blackie.jpg" title="this is a domestic cat.></center>
+<br>
+<hr>
+
+
+<center>
+<p>Did you know that originally it was thought that Egyptians domesticated the cat? But in 2004, French archaeologists discovered a 9,500 year old cat grave in Cyprus. This makes this the oldest known pet cat and it predates Egyptian art about cats by over 4,000 years!</p>
+
+<p>According to Veterinary Hub, Cats actually spend 70% of their lives sleeping, which works out to around 13-16 hours a day. It’s a cat’s life! We all want to be a cat, right?</p>
+
+<p>CAT ASTRANOUT? You’ve heard of monkeys and dogs in space, but did you know that a cat braved the great unknown too? On October 18th 1963 Felicette, also known as ‘Astrocat’ was the first and only cat to go to space.</p>
+
+<p>Can you guess the age of the oldest cat? The oldest cat to have ever lived was 38 years and 3 days old when he passed away. Crème Puff, born on 3rd August 1967 lived until 6th August 2005.</p>
+
+<p>Do you like the taste of sweetness? Did you know that cats cannot detect sweetness?</p>
+</center>
+
+
+
+
+</body>
+</html>
